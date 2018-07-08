@@ -1,0 +1,37 @@
+body {
+    background-size: cover;
+    color: white;
+}
+
+.container {
+    border-style: lightgray;
+}
+
+h1 {
+    color: lightblue;
+    margin-top: 100px;
+}
+
+#timeBox {
+    color: darkred;
+}
+
+h3 {
+    text-align: center;
+}
+
+button {
+    margin-bottom: 50px;
+    font-size: x-large;
+}
+
+#yourScore {
+    text-align: center;
+}
+
+#questionsBox {
+    background-color: lightslategray;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
